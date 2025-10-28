@@ -1,26 +1,13 @@
-______________________________________________________________
-/ TasteBud insight:                                          \
-| “I predicted you’d read this. It’s called personalisation.” |
-\ Confidence: 99.9% unless you like pineapple on pizza       /
---------------------------------------------------------------
-        \   ^__^
-         \  (😋)\_______  recommend()
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+# Hi, I’m Sakith
 
-
-# 👋 Hi, I’m Sakith
-
-Fortune 100 Tech Leader • Software Architect • Engineering Manager  
-Building AI agents that personalize the world one recommendation at a time
+Software Architect • Engineering Manager  
+Building AI agents that personalise the world one recommendation at a time
 
 ---
 
-### 🚀 What I Do
+### What I Do
 
 - Architect **Agent-Centric AI Platforms** 
-- Build **TasteBud** for frictionless food discovery
 - Engineer **Offer Engine 2.0** to spark buying joy
 - Lead the **Personalization Engineering Team (PET)** across domains
 - Transform chaotic data into actionable insights
@@ -30,7 +17,7 @@ I spend my days convincing software to care about people.
 
 ---
 
-### 🧠 Tech Universe
+### Tech Universe
 
 | Area | Tools | Vibes |
 |------|------|------|
@@ -42,7 +29,7 @@ I spend my days convincing software to care about people.
 
 ---
 
-### 🎯 My Philosophy
+### My Philosophy
 
 Build platforms that:  
 ✅ empower developers  
