@@ -3,7 +3,6 @@
 Software Architect • Engineering Manager  
 Building AI agents that personalise the world one recommendation at a time
 
----
 
 ### What I Do
 
@@ -15,7 +14,6 @@ Building AI agents that personalise the world one recommendation at a time
 Translation:  
 I spend my days convincing software to care about people.
 
----
 
 ### Tech Universe
 
@@ -27,7 +25,6 @@ I spend my days convincing software to care about people.
 | Cloud & Ops | AWS, Docker, Terraform, Apigee X | From zero to scalable hero |
 | Frontend | React, Vite, MUI, TS | Looks good, ships fast |
 
----
 
 ### My Philosophy
 
